@@ -19,7 +19,7 @@ export const translations = {
             description: '📍 Madrid, Comunidad de Madrid, España',
             viewWork: 'Sobre mí',
             downloadCV: 'Descargar CV',
-            href: 'src/assets/pdf/Curriculum Vitae - Celeste Guillen - ES.pdf'
+            href: '/celeste-guillen-portfolio/pdf/Curriculum Vitae - Celeste Guillen - ES.pdf'
         },
         about: {
             title: 'Sobre mí',
@@ -140,7 +140,7 @@ export const translations = {
                     degree: 'Programación en Inteligencia Artificial y Big Data 🔗',
                     period: 'Jul 2025',
                     technologies: ['Aprendizaje automático', 'Aprendizaje profundo', 'NLP', 'Big data'],
-                    href: 'src/assets/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
                 },
                 {
                     type: 'certification',
@@ -148,7 +148,7 @@ export const translations = {
                     degree: 'Desarrollo de Aplicaciones Web con Angular - Tomo 2 🔗',
                     period: 'Mar 2025',
                     technologies: ['AngularJS', 'Angular Material', 'Ionic Framework', 'Bootstrap'],
-                    href: 'src/assets/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 2.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 2.pdf'
                 },
                 {
                     type: 'certification',
@@ -156,7 +156,7 @@ export const translations = {
                     degree: 'Google Analytics y Google Metatags 🔗',
                     period: 'Mar 2025',
                     technologies: ['Google Analytics', 'Google Tag Manager', 'Google Ads', 'Google Metatags'],
-                    href: 'src/assets/pdf/Google Analytics y Google Metatags.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Google Analytics y Google Metatags.pdf'
                 },
                 {
                     type: 'certification',
@@ -164,7 +164,7 @@ export const translations = {
                     degree: 'Microsoft Power BI 🔗',
                     period: 'Mar 2025',
                     technologies: ['Microsoft Power BI', 'Expresiones de análisis de datos (DAX)', 'Visualización de datos', 'Análisis de datos', 'Microsoft Power Query'],
-                    href: 'src/assets/pdf/Microsoft Power BI.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Microsoft Power BI.pdf'
                 },
                 {
                     type: 'certification',
@@ -172,7 +172,7 @@ export const translations = {
                     degree: 'Bases de Datos NoSQL: MongoDB Y CouchDB 🔗',
                     period: 'Dic 2024',
                     technologies: ['NoSQL', 'MongoDB', 'CouchDB', 'Big data', 'Optimización'],
-                    href: 'src/assets/pdf/Bases de Datos NoSQL - MongoDB Y CouchDB.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Bases de Datos NoSQL - MongoDB Y CouchDB.pdf'
                 },
                 {
                     type: 'certification',
@@ -180,7 +180,7 @@ export const translations = {
                     degree: 'Desarrollo de Aplicaciones en Python 🔗',
                     period: 'Nov 2024',
                     technologies: ['Python', 'Django', 'Programación orientada a objetos (POO)', 'Pruebas', 'Git'],
-                    href: '/assets/pdf/Desarrollo de Aplicaciones en Python.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones en Python.pdf'
                 },
                 {
                     type: 'certification',
@@ -188,7 +188,7 @@ export const translations = {
                     degree: 'Desarrollo de Aplicaciones Web con Angular - Tomo 1 🔗',
                     period: 'Oct 2024',
                     technologies: ['Angular', 'TypeScript', 'PIPEs', 'JSON', 'Observables y Promesas (RxJS)'],
-                    href: '/assets/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 1.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 1.pdf'
                 },
                 {
                     type: 'certification',
@@ -196,7 +196,7 @@ export const translations = {
                     degree: 'Desarrollador de Soluciones en la Nube de AWS 🔗',
                     period: 'Ago 2024',
                     technologies: ['Amazon S3', 'Amazon Dynamodb', 'Amazon EC2', 'Amazon VPC', 'AWS Lambda', 'API Gateways', 'AWS CloudFormation', 'Implementación de CI/CD'],
-                    href: '/assets/pdf/Desarrollador de Soluciones en la Nube de AWS.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollador de Soluciones en la Nube de AWS.pdf'
                 }
             ]
         },
@@ -253,7 +253,7 @@ export const translations = {
             description: '📍 Madrid, Community of Madrid, Spain',
             viewWork: 'About Me',
             downloadCV: 'Download CV',
-            href: '/assets/pdf/Curriculum Vitae - Celeste Guillen - EN.pdf'
+            href: '/celeste-guillen-portfolio/pdf/Curriculum Vitae - Celeste Guillen - EN.pdf'
         },
         about: {
             title: 'About Me',
@@ -374,7 +374,7 @@ export const translations = {
                     degree: 'Programming in Artificial Intelligence and Big Data 🔗',
                     period: 'Jul 2025',
                     technologies: ['Machine Learning', 'Deep Learning', 'NLP', 'Big Data'],
-                    href: '/assets/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
                 }
             ]
         },
@@ -424,7 +424,7 @@ export const translations = {
             description: '📍 Madrid, Gemeinschaft Madrid, Spanien',
             viewWork: 'Über mich',
             downloadCV: 'Lebenslauf herunterladen',
-            href: '/assets/pdf/Curriculum Vitae - Celeste Guillen - DE.pdf'
+            href: '/celeste-guillen-portfolio/pdf/Curriculum Vitae - Celeste Guillen - DE.pdf'
         },
         about: {
             title: 'Über mich',
@@ -545,7 +545,7 @@ export const translations = {
                     degree: 'Programmierung in Künstlicher Intelligenz und Big Data 🔗',
                     period: 'Jul 2025',
                     technologies: ['Machine Learning', 'Deep Learning', 'NLP', 'Big Data'],
-                    href: '/assets/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
+                    href: '/celeste-guillen-portfolio/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
                 }
             ]
         },
