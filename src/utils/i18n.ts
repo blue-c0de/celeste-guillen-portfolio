@@ -128,14 +128,6 @@ export const translations = {
                 },
                 {
                     type: 'certification',
-                    institution: 'AWS Certifications',
-                    degree: 'AWS Certified Solutions Architect 🔗',
-                    period: 'Oct 2025',
-                    technologies: ['AWS', 'Cloud Computing', 'DevOps'],
-                    href: '#'
-                },
-                {
-                    type: 'certification',
                     institution: 'Grouplance AM Servicios, S.L.',
                     degree: 'Programación en Inteligencia Artificial y Big Data 🔗',
                     period: 'Jul 2025',
@@ -359,14 +351,6 @@ export const translations = {
                     period: 'Sep 2020 - Jun 2022',
                     description: 'GPA: 8.09',
                     technologies: ['Packet Tracer', 'Windows', 'Cisco Routers', 'Putty', 'Linux']
-                },
-                {
-                    type: 'certification',
-                    institution: 'AWS Certifications',
-                    degree: 'AWS Certified Solutions Architect 🔗',
-                    period: 'Oct 2025',
-                    technologies: ['AWS', 'Cloud Computing', 'DevOps'],
-                    href: '#'
                 },
                 {
                     type: 'certification',
@@ -595,14 +579,6 @@ export const translations = {
                     period: 'Sep 2020 - Jun 2022',
                     description: 'GPA: 8.09',
                     technologies: ['Packet Tracer', 'Windows', 'Cisco Router', 'Putty', 'Linux']
-                },
-                {
-                    type: 'certification',
-                    institution: 'AWS-Zertifizierungen',
-                    degree: 'AWS Certified Solutions Architect 🔗',
-                    period: 'Okt 2025',
-                    technologies: ['AWS', 'Cloud Computing', 'DevOps'],
-                    href: '#'
                 },
                 {
                     type: 'certification',
