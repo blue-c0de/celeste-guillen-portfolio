@@ -338,26 +338,26 @@ export const translations = {
             educations: [
                 {
                     type: 'degree',
-                    institution: 'Universidad Alfonso X el Sabio',
-                    degree: 'Bachelor in Artificial Intelligence and Computing',
+                    institution: 'Alfonso X el Sabio University',
+                    degree: 'Bachelor’s Degree in Artificial Intelligence and Computing',
                     period: 'Oct 2024 - Jun 2027',
-                    description: 'Note: First Year - 8.0',
+                    description: 'GPA: First Year - 8.0',
                     technologies: ['Python', 'R', 'Scala']
                 },
                 {
                     type: 'degree',
-                    institution: 'Instituto Juan de la Cierva',
-                    degree: 'Higher Vocational Degree in Multiplatform Application Development',
+                    institution: 'Juan de la Cierva Institute',
+                    degree: 'Advanced Vocational Training in Multiplatform Application Development',
                     period: 'Sep 2022 - Jun 2024',
-                    description: 'Grade: 8.00',
+                    description: 'GPA: 8.00',
                     technologies: ['AndroidStudio', 'Java', 'JavaScript', 'CSS', 'HTML5', 'SQL', 'PL/SQL']
                 },
                 {
                     type: 'degree',
-                    institution: 'Instituto Juan de la Cierva',
-                    degree: 'Intermediate Vocational Degree in Microcomputer Systems and Networks',
+                    institution: 'Juan de la Cierva Institute',
+                    degree: 'Intermediate Vocational Training in Microcomputer Systems and Networks',
                     period: 'Sep 2020 - Jun 2022',
-                    description: 'Grade: 8.09',
+                    description: 'GPA: 8.09',
                     technologies: ['Packet Tracer', 'Windows', 'Cisco Routers', 'Putty', 'Linux']
                 },
                 {
@@ -375,7 +375,64 @@ export const translations = {
                     period: 'Jul 2025',
                     technologies: ['Machine Learning', 'Deep Learning', 'NLP', 'Big Data'],
                     href: '/celeste-guillen-portfolio/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Grouplance AM Servicios, S.L.',
+                    degree: 'Web Application Development with Angular - Volume 2 🔗',
+                    period: 'Mar 2025',
+                    technologies: ['AngularJS', 'Angular Material', 'Ionic Framework', 'Bootstrap'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 2.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Grouplance AM Servicios, S.L.',
+                    degree: 'Google Analytics and Google Metatags 🔗',
+                    period: 'Mar 2025',
+                    technologies: ['Google Analytics', 'Google Tag Manager', 'Google Ads', 'Google Metatags'],
+                    href: '/celeste-guillen-portfolio/pdf/Google Analytics y Google Metatags.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'INECO',
+                    degree: 'Microsoft Power BI 🔗',
+                    period: 'Mar 2025',
+                    technologies: ['Microsoft Power BI', 'Data Analysis Expressions (DAX)', 'Data Visualization', 'Data Analysis', 'Microsoft Power Query'],
+                    href: '/celeste-guillen-portfolio/pdf/Microsoft Power BI.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'CAS Training',
+                    degree: 'NoSQL Databases: MongoDB and CouchDB 🔗',
+                    period: 'Dec 2024',
+                    technologies: ['NoSQL', 'MongoDB', 'CouchDB', 'Big Data', 'Optimization'],
+                    href: '/celeste-guillen-portfolio/pdf/Bases de Datos NoSQL - MongoDB Y CouchDB.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Student Ambassador Program with IBM SkillsBuild',
+                    degree: 'Python Application Development 🔗',
+                    period: 'Nov 2024',
+                    technologies: ['Python', 'Django', 'Object-Oriented Programming (OOP)', 'Testing', 'Git'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones en Python.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Grouplance AM Servicios, S.L.',
+                    degree: 'Web Application Development with Angular - Volume 1 🔗',
+                    period: 'Oct 2024',
+                    technologies: ['Angular', 'TypeScript', 'PIPEs', 'JSON', 'Observables and Promises (RxJS)'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 1.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Experis Spain',
+                    degree: 'AWS Cloud Solutions Developer 🔗',
+                    period: 'Aug 2024',
+                    technologies: ['Amazon S3', 'Amazon DynamoDB', 'Amazon EC2', 'Amazon VPC', 'AWS Lambda', 'API Gateways', 'AWS CloudFormation', 'CI/CD Implementation'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollador de Soluciones en la Nube de AWS.pdf'
                 }
+
             ]
         },
         projects: {
@@ -509,31 +566,31 @@ export const translations = {
             educations: [
                 {
                     type: 'degree',
-                    institution: 'Universidad Alfonso X el Sabio',
+                    institution: 'Universität Alfonso X el Sabio',
                     degree: 'Bachelor in Künstlicher Intelligenz und Informatik',
                     period: 'Okt 2024 - Jun 2027',
-                    description: 'Hinweis: Erstes Jahr - 8.0',
+                    description: 'GPA: Erstes Jahr - 8.0',
                     technologies: ['Python', 'R', 'Scala']
                 },
                 {
                     type: 'degree',
-                    institution: 'Instituto Juan de la Cierva',
+                    institution: 'Institut Juan de la Cierva',
                     degree: 'Höhere Berufsbildung in Multiplattform-Anwendungsentwicklung',
                     period: 'Sep 2022 - Jun 2024',
-                    description: 'Note: 8.00',
+                    description: 'GPA: 8.00',
                     technologies: ['AndroidStudio', 'Java', 'JavaScript', 'CSS', 'HTML5', 'SQL', 'PL/SQL']
                 },
                 {
                     type: 'degree',
-                    institution: 'Instituto Juan de la Cierva',
-                    degree: 'Mittlere Berufsbildung in Mikroinformatik und Netzwerken',
+                    institution: 'Institut Juan de la Cierva',
+                    degree: 'Mittlere Berufsbildung in Mikrocomputersystemen und Netzwerken',
                     period: 'Sep 2020 - Jun 2022',
-                    description: 'Note: 8.09',
-                    technologies: ['Packet Tracer', 'Windows', 'Cisco Routers', 'Putty', 'Linux']
+                    description: 'GPA: 8.09',
+                    technologies: ['Packet Tracer', 'Windows', 'Cisco Router', 'Putty', 'Linux']
                 },
                 {
                     type: 'certification',
-                    institution: 'AWS Certifications',
+                    institution: 'AWS-Zertifizierungen',
                     degree: 'AWS Certified Solutions Architect 🔗',
                     period: 'Okt 2025',
                     technologies: ['AWS', 'Cloud Computing', 'DevOps'],
@@ -544,9 +601,66 @@ export const translations = {
                     institution: 'Grouplance AM Servicios, S.L.',
                     degree: 'Programmierung in Künstlicher Intelligenz und Big Data 🔗',
                     period: 'Jul 2025',
-                    technologies: ['Machine Learning', 'Deep Learning', 'NLP', 'Big Data'],
+                    technologies: ['Maschinelles Lernen', 'Tiefes Lernen', 'NLP', 'Big Data'],
                     href: '/celeste-guillen-portfolio/pdf/Programación en Inteligencia Artificial y Big Data.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Grouplance AM Servicios, S.L.',
+                    degree: 'Webanwendungsentwicklung mit Angular - Band 2 🔗',
+                    period: 'Mär 2025',
+                    technologies: ['AngularJS', 'Angular Material', 'Ionic Framework', 'Bootstrap'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 2.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Grouplance AM Servicios, S.L.',
+                    degree: 'Google Analytics und Google Metatags 🔗',
+                    period: 'Mär 2025',
+                    technologies: ['Google Analytics', 'Google Tag Manager', 'Google Ads', 'Google Metatags'],
+                    href: '/celeste-guillen-portfolio/pdf/Google Analytics y Google Metatags.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'INECO',
+                    degree: 'Microsoft Power BI 🔗',
+                    period: 'Mär 2025',
+                    technologies: ['Microsoft Power BI', 'Datenanalyseausdrücke (DAX)', 'Datenvisualisierung', 'Datenanalyse', 'Microsoft Power Query'],
+                    href: '/celeste-guillen-portfolio/pdf/Microsoft Power BI.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'CAS Training',
+                    degree: 'NoSQL-Datenbanken: MongoDB und CouchDB 🔗',
+                    period: 'Dez 2024',
+                    technologies: ['NoSQL', 'MongoDB', 'CouchDB', 'Big Data', 'Optimierung'],
+                    href: '/celeste-guillen-portfolio/pdf/Bases de Datos NoSQL - MongoDB Y CouchDB.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Student Ambassador Program mit IBM SkillsBuild',
+                    degree: 'Python-Anwendungsentwicklung 🔗',
+                    period: 'Nov 2024',
+                    technologies: ['Python', 'Django', 'Objektorientierte Programmierung (OOP)', 'Tests', 'Git'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones en Python.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Grouplance AM Servicios, S.L.',
+                    degree: 'Webanwendungsentwicklung mit Angular - Band 1 🔗',
+                    period: 'Okt 2024',
+                    technologies: ['Angular', 'TypeScript', 'PIPEs', 'JSON', 'Observables und Promises (RxJS)'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollo de Aplicaciones Web con Angular - Tomo 1.pdf'
+                },
+                {
+                    type: 'certification',
+                    institution: 'Experis Spanien',
+                    degree: 'AWS Cloud Solutions Entwickler 🔗',
+                    period: 'Aug 2024',
+                    technologies: ['Amazon S3', 'Amazon DynamoDB', 'Amazon EC2', 'Amazon VPC', 'AWS Lambda', 'API Gateways', 'AWS CloudFormation', 'CI/CD-Implementierung'],
+                    href: '/celeste-guillen-portfolio/pdf/Desarrollador de Soluciones en la Nube de AWS.pdf'
                 }
+
             ]
         },
         projects: {
