@@ -448,6 +448,14 @@ export const translations = {
                     technologies: ['Java', 'SQLite', 'Firebase', 'Figma'],
                     github: 'https://github.com/YanetC04/MadridIndustria',
                     demo: 'https://play.google.com/store/apps/details?id=com.proyectointegrador.madridindustria&hl=en_US'
+                },
+                {
+                    title: 'SmartOper / SmartOfic',
+                    description: 'SmartOper and SmartOfic are components of a mini ERP system. In SmartOfic, incidents can be created, modified, and printed. In SmartOper, operators receive the assigned incidents. They are resolved by entering data such as start and end dates, as well as attaching visual evidence to validate the completion of the work.',
+                    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800',
+                    technologies: ['ERP Software', 'Java', 'MySQL', 'Maven', 'Gradle', 'Firebase'],
+                    github: 'https://github.com/blue-c0de/SmartOfic',
+                    demo: 'https://github.com/blue-c0de/SmartOper'
                 }
             ]
         },
@@ -676,6 +684,14 @@ export const translations = {
                     technologies: ['Java', 'SQLite', 'Firebase', 'Figma'],
                     github: 'https://github.com/YanetC04/MadridIndustria',
                     demo: 'https://play.google.com/store/apps/details?id=com.proyectointegrador.madridindustria&hl=en_US'
+                },
+                {
+                    title: 'SmartOper / SmartOfic',
+                    description: 'SmartOper und SmartOfic sind Komponenten eines Mini-ERP-Systems. In SmartOfic können Vorfälle erstellt, bearbeitet und gedruckt werden. In SmartOper erhalten die Mitarbeiter die zugewiesenen Vorfälle. Diese werden gelöst, indem Daten wie Start- und Enddatum eingegeben und visuelle Nachweise angehängt werden, um die Ausführung der Arbeit zu bestätigen.',
+                    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800',
+                    technologies: ['ERP-Software', 'Java', 'MySQL', 'Maven', 'Gradle', 'Firebase'],
+                    github: 'https://github.com/blue-c0de/SmartOfic',
+                    demo: 'https://github.com/blue-c0de/SmartOper'
                 }
             ]
         },
