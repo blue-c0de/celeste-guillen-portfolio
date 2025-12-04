@@ -35,7 +35,7 @@ export function App() {
     const translations = useTranslations(currentLang);
 
     // Profile image
-    const profileImage = "https://media.licdn.com/dms/image/v2/D5603AQGIissyTO3U5g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719156379981?e=1763596800&v=beta&t=7LG2eSd7Pcy6KaEZiLRhAXsZaTHmZlRirwb5XvNXyCk";
+    const profileImage = "src/assets/jpg/Celeste Guillen.jpg";
 
     // Smooth scroll to section
     const scrollToSection = (sectionId: string) => {
