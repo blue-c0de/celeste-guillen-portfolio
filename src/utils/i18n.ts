@@ -107,7 +107,7 @@ export const translations = {
                     institution: 'Universidad Alfonso X el Sabio',
                     degree: 'Grado Inteligencia Artificial y Computación',
                     period: 'Oct 2024 - Jun 2027',
-                    description: 'Nota: Primer Curso - 8.0',
+                    description: 'Nota: Primer Curso - 8.0; Segundo y Tercer Curso (Primer Cuatrimestre): 8.4',
                     technologies: ['Python', 'R', 'Scala']
                 },
                 {
