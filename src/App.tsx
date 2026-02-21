@@ -35,7 +35,7 @@ export function App() {
     const translations = useTranslations(currentLang);
 
     // Profile image
-    const profileImage = "src/assets/jpg/Celeste Guillen.jpg";
+    const profileImage = "public/img/Celeste Guillen.jpg";
 
     // Smooth scroll to section
     const scrollToSection = (sectionId: string) => {
