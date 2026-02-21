@@ -207,6 +207,13 @@ export const translations = {
             viewCode: 'Ver código',
             projects: [
                 {
+                    title: 'Propensión a Préstamo Personal',
+                    description: 'Este proyecto desarrolla un flujo completo de Ciencia de Datos aplicado al sector bancario, cuyo objetivo es predecir la probabilidad de que un cliente acepte un préstamo personal durante una campaña comercial.',
+                    image: '/celeste-guillen-portfolio/img/Imagen Propensión.png',
+                    technologies: ['R', 'RStudio', 'Análisis de datos', 'Modelo de regresión'],
+                    github: 'https://github.com/blue-c0de/Propension-a-Prestamo-Personal',
+                    demo: 'https://blue-c0de.github.io/Propension-a-Prestamo-Personal/'
+                },{
                     title: 'MadridIndustria',
                     description: 'Es una app para despertar el interés y el aprecio por el patrimonio industrial en la Comunidad de Madrid. Permite explorar sitios históricos, marcarlos en un mapa interactivo y organizar favoritos. Los gestores pueden agregar, actualizar y eliminar información.',
                     image: 'https://play-lh.googleusercontent.com/aLQzhGptlbF-1ND3IwU2cLk32X7-d3-Z0NeASn3l79Nfe3LD-yJUhWlf7Sigox2Nr-4=w5120-h2880-rw',
@@ -443,6 +450,13 @@ export const translations = {
             viewCode: 'View Code',
             projects: [
                 {
+                    title: 'Personal Loan Propensity',
+                    description: 'This project develops a complete Data Science workflow applied to the banking sector, aiming to predict the probability that a client will accept a personal loan during a marketing campaign.',
+                    image: '/celeste-guillen-portfolio/img/Imagen Propensión.png',
+                    technologies: ['R', 'RStudio', 'Data Analysis', 'Regression Model'],
+                    github: 'https://github.com/blue-c0de/Propension-a-Prestamo-Personal',
+                    demo: 'https://blue-c0de.github.io/Propension-a-Prestamo-Personal/'
+                },{
                     title: 'MadridIndustria',
                     description: 'It is an app to spark interest and appreciation for industrial heritage in the Community of Madrid. It allows users to explore historical sites, mark them on an interactive map, and organize favorites. Managers can add, update, and delete information.',
                     image: 'https://play-lh.googleusercontent.com/aLQzhGptlbF-1ND3IwU2cLk32X7-d3-Z0NeASn3l79Nfe3LD-yJUhWlf7Sigox2Nr-4=w5120-h2880-rw',
@@ -679,6 +693,13 @@ export const translations = {
             viewCode: 'Code ansehen',
             projects: [
                 {
+                    title: 'Neigung zu einem Privatkredit',
+                    description: 'Dieses Projekt entwickelt einen vollständigen Data-Science-Workflow im Bankensektor mit dem Ziel, die Wahrscheinlichkeit vorherzusagen, dass ein Kunde während einer Marketingkampagne einen Privatkredit annimmt.',
+                    image: '/celeste-guillen-portfolio/img/Imagen Propensión.png',
+                    technologies: ['R', 'RStudio', 'Datenanalyse', 'Regressionsmodell'],
+                    github: 'https://github.com/blue-c0de/Propension-a-Prestamo-Personal',
+                    demo: 'https://blue-c0de.github.io/Propension-a-Prestamo-Personal/'
+                },{
                     title: 'MadridIndustria',
                     description: 'Es ist eine App, um Interesse und Wertschätzung für das industrielle Erbe in der Gemeinschaft Madrid zu wecken. Benutzer können historische Stätten erkunden, sie auf einer interaktiven Karte markieren und Favoriten organisieren. Manager können Informationen hinzufügen, aktualisieren und löschen.',
                     image: 'https://play-lh.googleusercontent.com/aLQzhGptlbF-1ND3IwU2cLk32X7-d3-Z0NeASn3l79Nfe3LD-yJUhWlf7Sigox2Nr-4=w5120-h2880-rw',

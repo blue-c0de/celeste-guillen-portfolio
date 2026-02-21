@@ -66,7 +66,7 @@ export function AboutSection({ translations }: AboutSectionProps) {
                   <p className="text-sm text-muted-foreground">{translations.about.years}</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-cyan-500">2</p>
+                  <p className="text-cyan-500">3</p>
                   <p className="text-sm text-muted-foreground">{translations.about.projects}</p>
                 </div>
                 <div className="text-center">
