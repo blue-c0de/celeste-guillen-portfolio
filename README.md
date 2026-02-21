@@ -90,7 +90,7 @@ portfolio/
 
 - 📧 Email: celeste@example.com
 - 💼 LinkedIn: [linkedin.com/in/celesteguillen](https://linkedin.com/in/celesteguillen)
-- 🐙 GitHub: [@celesteguillen](https://github.com/celesteguillen)
+- 🐙 GitHub: [@celesteguillen](https://github.com/blue-c0de)
 
 ---
 
@@ -184,7 +184,7 @@ portfolio/
 
 - 📧 Email: celeste@example.com
 - 💼 LinkedIn: [linkedin.com/in/celesteguillen](https://linkedin.com/in/celesteguillen)
-- 🐙 GitHub: [@celesteguillen](https://github.com/celesteguillen)
+- 🐙 GitHub: [@celesteguillen](https://github.com/blue-c0de)
 
 ---
 
@@ -278,7 +278,7 @@ portfolio/
 
 - 📧 E-Mail: celeste@example.com
 - 💼 LinkedIn: [linkedin.com/in/celesteguillen](https://linkedin.com/in/celesteguillen)
-- 🐙 GitHub: [@celesteguillen](https://github.com/celesteguillen)
+- 🐙 GitHub: [@celesteguillen](https://github.com/blue-c0de)
 
 ---
 
